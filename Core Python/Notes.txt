@@ -1,0 +1,74 @@
+Core Python
+---------------------
+DATA STRUCTURES
+---------------------------
+Linear Data STRUCTURES
+===================================
+In data structures, elements are stored in consecutive m/m location.
+Ex: Stack,queue,array
+
+STACK 
+--------------------
+LIFO - last in first out
+Operations 
+    push -insert
+        element is stored in stack[top]
+        then,after inserting,it increments the top ,  top+=1 ; top=top+1
+    pop -delete
+        last added element will be removed when u called stack.pop()
+        then,top will decremented ,(top-=1)
+----------------------------------------------------------------
+
+Python Collection
+---------------------
+
+List
+Tuple
+Set
+
+
+
+Dictionary
+-------------------------
+- defined by {}
+- can store same or diff types of datas
+- can update or it is mutable
+- duplicate key is not allowed ; but we can store duplicate values
+- values or datas are stored in dictionary in the form of key:value pairs
+- to access the value ,we can use the corresponding key
+
+id:101
+name:"nimisha"
+salary:56000
+
+emp={"id":101,"name":"nimisha","salary":25000}
+
+
+student={"id":100,"name":"nimisha","total":900}
+
+1. print the dictionary
+2. find the key "age" present or not
+3. if not,add the field "age":22
+4. add a new field college with value shanimz academy
+5. update the total to 1000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
