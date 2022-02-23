@@ -54,19 +54,25 @@ student={"id":100,"name":"nimisha","total":900}
 
 
 
+---------------------------------------------------------------
+
+text="A B B C C C"
+
+----------------------------------------------------------------
+
+File Input & Output Functions
+----------------------------------------------------
+
+Files are used to store data
+
+File operations or mode
+-----------------------
+- read
+- write
+- append
 
 
-
-
-
-
-
-
-
-
-
-
-
+reference_variable = open(path,mode of operation)
 
 
 
