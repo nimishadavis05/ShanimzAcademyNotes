@@ -74,6 +74,12 @@ File operations or mode
 
 reference_variable = open(path,mode of operation)
 
+dataset
+kaggle
+
+
+
+----------------------------------------------------
 
 
 
