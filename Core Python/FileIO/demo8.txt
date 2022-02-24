@@ -1,0 +1,4 @@
+1,Thrissur,10,1026
+2,EKM,15,32
+3,Kozhikode,5,366
+4,Kollam,65,4569
